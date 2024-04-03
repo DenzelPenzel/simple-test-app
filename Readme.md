@@ -46,7 +46,7 @@ Example:
 User: [id, ...]
 ```
 
-### Backend task II: Develop REST API methods for managing ```User``` data models
+### Backend task II: Develop REST API methods for managing ```User``` data model
 
 ```
 Create User:
