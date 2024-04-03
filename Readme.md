@@ -35,7 +35,7 @@ Key Features:
 ### Setting up the project structure and checking library documentation
 
 - Check CherryPy HTTP framework, documentation link [cherrypy](https://docs.cherrypy.dev/en/latest/)
-- Create basic "hello world" application using CherryPy HTTP framework
+- Create a basic "hello world" application using the CherryPy HTTP framework
 - Check REST API Best practice documentation [REST API](https://restfulapi.net/resource-naming/)
 
 ### Backend task I: Prepare data model schema for the ```User``` entity
