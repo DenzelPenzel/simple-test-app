@@ -2,7 +2,7 @@
 
 Create a minimalist application for managing users in system
 
-Key Features::
+Key Features:
 
 - Create user: add new users to the system
 - Remove User: delete user by unique ID
