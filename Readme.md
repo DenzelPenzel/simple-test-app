@@ -1,6 +1,6 @@
 ### Frontend and Backend tasks
 
-Create a minimalist application for managing users in our system.
+Create a minimalist application for managing users in system
 
 Key Features::
 
