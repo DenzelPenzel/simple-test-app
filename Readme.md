@@ -1,4 +1,4 @@
-### Frontend and Backend tasks
+# Frontend and Backend tasks
 
 Create a minimalist application for managing users in system
 
