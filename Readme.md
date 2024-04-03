@@ -17,14 +17,14 @@ Key Features:
 - Create a boilerplate application using  [create-react-app](https://create-react-app.dev/) use TypeScript version
 - Check [redux](https://redux.js.org/) and review the library documentation and strive to comprehend the issues it aims
   to address
-- Add [redux-toolkit](https://redux-toolkit.js.org/) a helper to the project for working with state management
+- Add [redux-toolkit](https://redux-toolkit.js.org/) a helper to the project for working with frontend state management
 - Add [ag-grid](https://ag-grid.com/react-data-grid/getting-started/) library as a dependency
 
-### Frontend task I: create user form page
+### Frontend task I: create a user form page
 
 ![fe.png](fe.png)
 
-### Frontend task II: create the user list component using ag-grid
+### Frontend task II: create the user list component using ```ag-grid``` library
 
 ![fe_II.png](fe_II.png)
 
