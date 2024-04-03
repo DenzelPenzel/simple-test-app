@@ -52,15 +52,15 @@ User: [id, ...]
 Create User:
 Method: POST
 Endpoint: /users
-Description: Create a new user.
-Request Body: JSON containing user data (name, email, phone and etc).
-Response: JSON with the created user's details or an error message.
+Description: Create a new user
+Request Body: JSON containing user data (name, email, phone and etc)
+Response: JSON with the created user's details or an error message
 
 Get User:
 Method: GET
 Endpoint: /users/{userId}
 Description: Retrieve user details by ID
-Response: JSON containing user details if found, or an error message if not found.
+Response: JSON containing user details if found, or an error message if not found
 
 Update User:
 Method: PUT
@@ -73,7 +73,7 @@ Delete User:
 Method: DELETE
 Endpoint: /users/{userId}
 Description: Delete user by ID
-Response: JSON confirming the deletion or an error message.
+Response: JSON confirming the deletion or an error message
 ```
 
 
